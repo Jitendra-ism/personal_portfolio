@@ -1,44 +1,50 @@
-# 🌐 Jitendra Portfolio Website
+# Jitendra — Personal Portfolio Website
 
-A personal portfolio website built using **HTML, CSS, and JavaScript** to showcase my education, skills, programming profile, and contact information. The site is fully responsive, visually appealing, and designed with smooth animations and modern UI elements.
+This repository contains the source code for my personal portfolio website, built using standard web technologies. The website is designed to present my academic background, technical skills, programming profiles, and contact information in a clean, structured, and professional manner.
 
----
-
-## 🚀 Live Preview
-👉 Add your deployed link here (GitHub Pages / Netlify / Vercel)
+The primary focus of this project is responsiveness, clarity, and a modern user experience.
 
 ---
 
-## 📌 Features
+## Overview
 
-- 🧑‍💻 Intro section with typing animation  
-- 📌 Sticky navigation bar with smooth scrolling  
-- ✨ Glowing animated sections  
-- 📄 Download CV button  
-- 📊 Programming profile table  
-- 🛠️ Skills section with tech icons  
-- 📬 Contact form (Formspree integration)  
-- ⬆️ Scroll-to-top button  
-- 📱 Fully responsive design  
+The portfolio serves as a centralized platform to showcase my profile, projects, and skills. It is optimized for multiple screen sizes and includes smooth animations and intuitive navigation to enhance usability.
 
 ---
 
-## 🛠️ Tech Stack
+## Live Preview
+
+The website can be accessed using the deployed link below:
+
+> Add deployed link (GitHub Pages / Netlify / Vercel)
+
+---
+
+## Features
+
+- Intro section with typing animation  
+- Sticky navigation bar with smooth scrolling  
+- Animated section highlights  
+- Download CV functionality  
+- Programming profiles displayed in tabular format  
+- Skills section with visual indicators  
+- Contact form integration using Formspree  
+- Scroll-to-top navigation button  
+- Fully responsive design  
+
+---
+
+## Technology Stack
 
 ### Frontend
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)  
-
+- JavaScript (Vanilla)
 
 ### Form Handling
-- Formspree  
+- Formspree
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
-```bash
-.
-├── index.html
-├── README.md
