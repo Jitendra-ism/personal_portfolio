@@ -30,9 +30,6 @@ A personal portfolio website built using **HTML, CSS, and JavaScript** to showca
 - CSS3  
 - JavaScript (Vanilla)  
 
-### Fonts & Icons
-- Google Fonts (Fira Code)  
-- Devicon Icons CDN  
 
 ### Form Handling
 - Formspree  
